@@ -1,0 +1,1 @@
+{"type":"java_examples","detailedtype":"Java Thread","author":"miniim","name":"git","description":"","date":"2014/8/5 17:57:57","plugins":{"goorm.plugin.java_examples":{"plugin.java_examples.main":"project/main","plugin.java_examples.source_path":"src/","plugin.java_examples.build_path":"bin/","plugin.java_examples.build_option":"-g"}},"is_user_plugin":false}
